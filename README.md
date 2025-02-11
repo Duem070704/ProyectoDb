@@ -20,14 +20,14 @@ permisos, etc.
 
 ## Pruebas en Thunder Client
 ## Implementacion del CRUD
-![Create](/assets/createProduct.png)
-![Vizualizacion en MongoDB Compass ](/assets/createProductCompass.png)
-![Get de Product](/assets/getProducts.png)
-![Get ID product](/assets/GetIDProducts.png)
-![Update Product](/assets/updateProducts.png)
-![Vizualizacion en MongoDB Compass](/assets/updateProductsCompass.png)
-![Delete Product](/assets/deleteProduct.png)
-![Vizualizacion en MongoDB Compass](/assets/deleteProductCompass.png)
+![Create](/createProduct.png)
+![Vizualizacion en MongoDB Compass ](/createProductCompass.png)
+![Get de Product](/getProducts.png)
+![Get ID product](/GetIDProducts.png)
+![Update Product](/updateProducts.png)
+![Vizualizacion en MongoDB Compass](/updateProductsCompass.png)
+![Delete Product](/deleteProduct.png)
+![Vizualizacion en MongoDB Compass](/deleteProductCompass.png)
 
 
 ## Manual de Instalación
