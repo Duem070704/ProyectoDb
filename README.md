@@ -15,7 +15,9 @@ permisos, etc.
 - **Express.js**: Framework para construir el servidor y manejar rutas.  
 - **MongoDB**: Base de datos NoSQL para almacenar la información.  
 - **dotenv**: Manejo de variables de entorno para guardar datos confidenciales.  
-- **CORS**: Permite la comunicación entre frontend y backend, evitando conflictos entre dominios.  
+- **CORS**: Permite la comunicación entre frontend y backend, evitando conflictos entre dominios.
+- **Morgan**: Middleware para registrar solicitudes HTTP en la consola, útil para depuración. 
+- **Nodemon**: Herramienta que reinicia automáticamente el servidor cuando se detectan cambios en el código.  
 
 
 ## Pruebas en Thunder Client
